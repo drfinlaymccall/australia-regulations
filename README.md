@@ -1,5 +1,7 @@
 # Australian Commonwealth legislative instruments
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Australia's federal legislative instruments, which global-law reads at `australia/federal/instruments/`.
+
 The regulations, determinations and ASIC instruments that sit under the
 Commonwealth statute book, as a git history: **one commit per amending
 instrument, on the day it took effect**.
